@@ -1,0 +1,5 @@
+{
+  "name": "Professional Duty Roster Maker",
+  "description": "A comprehensive system to generate, manage, and print hospital-grade duty rosters with automated staff assignment and day-off tracking.",
+  "requestFramePermissions": []
+}
